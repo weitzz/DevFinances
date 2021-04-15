@@ -1,4 +1,4 @@
-### Dev.Finance
+### Dev.Finances
 
-
-Em desenvolvimento....
+APP de gastos financeiro
+Criado com HTML,CSS e JS
